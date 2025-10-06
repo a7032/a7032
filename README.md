@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuxiang He</h1>
-<h3 align="center">A high school student from China</h3>
+<h1 align="center">Hi 👋, I'm a703201</h1>
+<h3 align="center">A current student from Guilin University of Electronic Technology</h3>
 
 - 🔭 I’m currently working on **Team HEY**
 
